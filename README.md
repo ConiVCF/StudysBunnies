@@ -84,3 +84,7 @@ Proyecto_3.0/
 - Las credenciales de la base de datos y la API key de terceros (Gemini)
   viven únicamente en el servidor, centralizadas en `backend/config/config.php`
   (excluido de git vía `.gitignore`, se genera a partir de `config.example.php`), nunca en el frontend.
+
+
+  <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/c62afe90-3e51-4000-b5b7-9359e8108f80" />
+
