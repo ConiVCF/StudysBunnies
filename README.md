@@ -5,6 +5,12 @@ Sala de estudio gamificada: armá tu conejito, organizá tus tareas académicas
 en una pizarra de misiones, usá un temporizador Pomodoro, llevá una agenda
 de eventos y pedile ayuda a un tutor con IA cuando te trabes con algo.
 
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/63dd3253-b14b-4764-a591-a82139ec8f25" />
+
+<img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/8caa5f27-303f-4e1e-818a-a9f27850e028" />
+
+
+
 ## Tecnologías utilizadas
 
 - HTML5 + CSS3 (Flexbox)
@@ -72,6 +78,10 @@ Proyecto_3.0/
   contra MySQL, con buscador propio.
 - **Administrador**: panel con ABM de las misiones de **todos** los usuarios
   (`admin.php`), con buscador por tarea o por usuario.
+
+
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/ff78b751-b67c-4440-a7f6-08888188825f" />
+
 
 ## Seguridad
 
